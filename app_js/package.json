@@ -13,7 +13,7 @@
     "art": "0.10.0",
     "fb-watchman": "1.6.0",
     "gl-react-native": "0.1.7",
-    "lodash": "3.10.1",
+    "lodash": "4.17.21",
     "qs": "5.0.0",
     "react-native": "0.11.0",
     "react-native-activity-view": "0.2.4",
